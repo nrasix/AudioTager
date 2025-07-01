@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Projects\\AudioTager\\AudioTager\\",
+  "WorkspaceRootPath": "F:\\Projects\\AudioTager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{815E320B-5C30-420A-A5ED-FA51E1D31BAB}|AudioTager.csproj|f:\\projects\\audiotager\\audiotager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{815E320B-5C30-420A-A5ED-FA51E1D31BAB}|AudioTager.csproj|f:\\projects\\audiotager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{815E320B-5C30-420A-A5ED-FA51E1D31BAB}|AudioTager.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{815E320B-5C30-420A-A5ED-FA51E1D31BAB}|AudioTager.csproj|f:\\projects\\audiotager\\audiotager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{815E320B-5C30-420A-A5ED-FA51E1D31BAB}|AudioTager.csproj|F:\\Projects\\AudioTager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{815E320B-5C30-420A-A5ED-FA51E1D31BAB}|AudioTager.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,23 +24,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "F:\\Projects\\AudioTager\\AudioTager\\MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Projects\\AudioTager\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "F:\\Projects\\AudioTager\\AudioTager\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\Projects\\AudioTager\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T08:01:46.985Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "F:\\Projects\\AudioTager\\AudioTager\\MainWindow.xaml",
+              "DocumentMoniker": "F:\\Projects\\AudioTager\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "F:\\Projects\\AudioTager\\AudioTager\\MainWindow.xaml",
+              "ToolTip": "F:\\Projects\\AudioTager\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-07-01T08:01:47.686Z",

@@ -4,6 +4,6 @@
              xmlns:local="clr-namespace:AudioTager"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <FontFamily x:Key="SegoeFluentIcons">pack://application:,,,/;component/Fonts/#Segoe Fluent Icons</FontFamily>
     </Application.Resources>
 </Application>
